@@ -43,7 +43,7 @@ const teamData = [
   },
   {
     image: "/images/team/team6.png",
-    name: "Jeffery Kuo",
+    name: "Jeffrey Kuo",
     designation: "Lead Programmer",
     aosDelay: "600",
 
