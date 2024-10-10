@@ -35,16 +35,16 @@ const teamData = [
   },
   {
     image: "/images/team/team5.png",
-    name: "Jeffrey Kuo",
-    designation: "Lead Programmer",
+    name: "Alex Thompson",
+    designation: "Public Relations Officer",
     aosDelay: "500",
 
     socialLinks: [],
   },
   {
     image: "/images/team/team6.png",
-    name: "Alex Thompson",
-    designation: "Public Relations Officer",
+    name: "Jeffery Kuo",
+    designation: "Lead Programmer",
     aosDelay: "600",
 
     socialLinks: [],
